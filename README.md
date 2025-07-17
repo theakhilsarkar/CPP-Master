@@ -1,4 +1,3 @@
-
 ## C++ Questions
 
 ### Introduction
